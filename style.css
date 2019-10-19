@@ -1,5 +1,15 @@
+@font-face {
+    font-family: 'gothambold';
+    src: url(../fonts/gotham/Gotham-Bold.otf);
+    font-weight: bold;
+}
 
-    h1 {
+@font-face {
+    font-family: 'gothamlight';
+    src: url(../fonts/gotham/Gotham-Light.otf);
+}
+    
+h1 {
        text-align: center;
        font-size: 26pt;
        color: #894857;
