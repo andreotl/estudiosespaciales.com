@@ -22,6 +22,8 @@ h1 {
        font-family: Dosis;
        font-size: 18pt;
        color: #894857;
+       margin-left: 3px;
+       margin-right: 3px;
     }
 
  a {
