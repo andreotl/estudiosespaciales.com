@@ -1,12 +1,12 @@
 @font-face {
     font-family: 'gothambold';
-    src: url(../fonts/gotham/Gotham-Bold.otf);
+    src: url(https://fonts.google.com/specimen/Roboto);
     font-weight: bold;
 }
 
 @font-face {
     font-family: 'gothamlight';
-    src: url(../fonts/gotham/Gotham-Light.otf);
+    src: url(https://fonts.google.com/specimen/Roboto);
 }
     
 h1 {
