@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'gothambold';
+    font-family: 'Jaldi', sans-serif;
     src: url(https://fonts.google.com/specimen/Roboto);
     font-weight: bold;
 }
@@ -19,7 +19,7 @@ h1 {
 
     p {
        text-align: center;
-       font-family: Dosis;
+       font-family: 'Jaldi', sans-serif;;
        font-size: 18pt;
        color: #894857;
        margin-left: 3px;
